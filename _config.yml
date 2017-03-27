@@ -1,0 +1,46 @@
+name: observatory
+analytics:
+  twitter: simonturner
+github: true
+description: 'looking at innovation, and how to can lead to socialgppd'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+author:
+  name: simon turner
+  url: marquetteturner.com
+  email: simon@marquetteturner.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.940279615111649
+color:
+  lightness: 0.2947605822701007
+  brandColors:
+    - '#4E2F10'
+    - '#E4E3DF'
+    - '#F6A259'
+    - '#D4793A'
+    - '#605E69'
+  saturation: 0.512481871061027
+  brandStrength: 0.3538692777510732
+  rhythmicContrast: 0.1259497373830527
+content_rating:
+  adult: false
+typography_spectrum: 0.2921405641827732
+opengraph: {}
+title: observatory
