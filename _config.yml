@@ -1,16 +1,16 @@
-layout_spectrum: 0.3928035483129396
-typography_spectrum: 0.44961450304568623
+layout_spectrum: 0.023969586424363573
+typography_spectrum: 0.6747091274443867
 color:
-  lightness: 0.8192285557138264
+  lightness: 0.6046271618598574
   brandColors:
-    - '#25064D'
-    - '#36175E'
-    - '#553285'
-    - '#7B52AB'
-    - '#9768D1'
-  saturation: 0.6844267456932455
-  brandStrength: 0.21052495293392992
-  rhythmicContrast: 0.36064738157970627
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  saturation: 0.13467463265320673
+  brandStrength: 0.5489638928979599
+  rhythmicContrast: 0.6732808825507355
 coverPrefs:
   filter: false
 name: observatory
