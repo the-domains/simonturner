@@ -1,21 +1,8 @@
-layout_spectrum: 0.25026280235609794
-typography_spectrum: 0.49711164091446314
-color:
-  lightness: 0.6670687611840924
-  brandColors:
-    - '#B9121B'
-    - '#4C1B1B'
-    - '#F6E497'
-    - '#FCFAE1'
-    - '#BD8D46'
-  saturation: 0.5872420838883718
-  brandStrength: 0.39971196014387994
-  rhythmicContrast: 0.10182783859320871
 name: observatory
 analytics:
   twitter: simonturner
 github: true
-description: 'looking at innovation, and how it can lead to social good'
+description: innovation can lead to social good
 author:
   name: simon turner
   url: marquetteturner.com
@@ -33,14 +20,27 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 content: []
+layout_spectrum: 0.2502628023560979
+color:
+  lightness: 0.6670687611840924
+  brandColors:
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+  saturation: 0.5872420838883718
+  brandStrength: 0.3997119601438799
+  rhythmicContrast: 0.1018278385932087
 content_rating:
   adult: false
+typography_spectrum: 0.4971116409144631
 opengraph: {}
 title: observatory
