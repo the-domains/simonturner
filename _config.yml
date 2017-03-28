@@ -1,3 +1,18 @@
+layout_spectrum: 0.3928035483129396
+typography_spectrum: 0.44961450304568623
+color:
+  lightness: 0.8192285557138264
+  brandColors:
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
+  saturation: 0.6844267456932455
+  brandStrength: 0.21052495293392992
+  rhythmicContrast: 0.36064738157970627
+coverPrefs:
+  filter: false
 name: observatory
 analytics:
   twitter: simonturner
@@ -27,20 +42,7 @@ collections:
       format: rss
       number: 10
 content: []
-layout_spectrum: 0.2502628023560979
-color:
-  lightness: 0.6670687611840924
-  brandColors:
-    - '#B9121B'
-    - '#4C1B1B'
-    - '#F6E497'
-    - '#FCFAE1'
-    - '#BD8D46'
-  saturation: 0.5872420838883718
-  brandStrength: 0.3997119601438799
-  rhythmicContrast: 0.1018278385932087
 content_rating:
   adult: false
-typography_spectrum: 0.4971116409144631
 opengraph: {}
 title: observatory
